@@ -11,9 +11,10 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Tyler-Clayton/azure-network-protocols)
   - [Network File Shares and Permissions](https://github.com/Tyler-Clayton/Network-File-Shares-and-Permissions)
   - [Building Intuition for DNS](https://github.com/Tyler-Clayton/Building-Intuition-for-DNS)
- 
 
-<h2>🤳Connect with me:</h2>
+  <h3>🛡️Cybersecurity Projects🛡️</h3>
+
+<h4>🤳Connect with me:</h4>
 
 
 [<img align="left" alt="Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
