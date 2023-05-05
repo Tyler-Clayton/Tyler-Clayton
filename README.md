@@ -12,7 +12,8 @@
   - [Network File Shares and Permissions](https://github.com/Tyler-Clayton/Network-File-Shares-and-Permissions)
   - [Building Intuition for DNS](https://github.com/Tyler-Clayton/Building-Intuition-for-DNS)
 
-  <h3>🛡️Cybersecurity Projects🛡️</h3>
+  <b><h3>🛡️Cybersecurity Projects🛡️</h3></b>
+  - [Cloud Honeynet🍯 | SOC🕵️‍♂️ | Network Hardening🔒](https://github.com/Tyler-Clayton/Cloud-Honey-Net)
 
 <h4>🤳Connect with me:</h4>
 
