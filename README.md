@@ -14,6 +14,7 @@
 
   <b><h3>🛡️Cybersecurity Projects🛡️</h3></b>
   - [Cloud Honeynet🍯 | SOC🕵️‍♂️ | Network Hardening🔒](https://github.com/Tyler-Clayton/Cloud-Honey-Net)
+  - [Splunking🤿](https://github.com/Tyler-Clayton/Splunking_101)
 
 <h4>🤳Connect with me:</h4>
 
